@@ -1,0 +1,3 @@
+Ever heard of JWT?
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbGFnMSI6ImZsYWd7MG4zcGkzY2VfIiwiY2x1ZTEiOiJNb25rZXkgRCBMdWZmeSIsImNsdWUyIjoiV2lraXBlZGlhIn0.zZtL2wUGCpcOGQ_cjVbWSePyPAENDv-u38BrmtwPVtY
